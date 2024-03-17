@@ -3,7 +3,7 @@
 
 ### Compendium DOI:
 
-[![DOI] Not yet available
+[![DOI] *Not yet available*
 
 The content available at the above provided URL will reproduce the results as documented in the publication. Instead, the files hosted at <https://github.com/ArmandoFalcucci/Linking-Blades> represent the developmental versions and might have undergone modifications since the paper's publication.
 
