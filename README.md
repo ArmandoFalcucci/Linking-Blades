@@ -3,7 +3,7 @@
 
 ### Compendium DOI:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10639553.svg)](https://doi.org/10.5281/zenodo.10639553)
+[![DOI] Not yet available
 
 The content available at the above provided URL will reproduce the results as documented in the publication. Instead, the files hosted at <https://github.com/ArmandoFalcucci/Linking-Blades> represent the developmental versions and might have undergone modifications since the paper's publication.
 
@@ -11,7 +11,7 @@ The content available at the above provided URL will reproduce the results as do
 
 [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--3255--1005-green.svg)](https://orcid.org/0000-0002-3255-1005) Armando Falcucci (<armando.falcucci@uni-tuebingen.de>)
 
-[![ORCiD](https://img.shields.io/badge/ORCiD-0000-0003-1438-4036-green.svg)](https://orcid.org/0000-0003-1438-4036) Domenico Giusti (<domenico.giusti@uni-tuebingen.de>)
+[![ORCiD](https://img.shields.io/badge/ORCiD-0000--0003--1438--4036-green.svg)](https://orcid.org/0000-0003-1438-4036) Domenico Giusti (<domenico.giusti@uni-tuebingen.de>)
 
 ### Submitted paper:
 
