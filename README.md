@@ -19,7 +19,7 @@ Armando Falcucci, Domenico Giusti, Filippo Zangrossi, Matteo De Lorenzi, Letizia
 
 ### Abstract:
 
-Soon available
+*Soon available*
 
 ### Keywords:
 
